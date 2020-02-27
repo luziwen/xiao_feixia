@@ -1,3 +1,4 @@
+借鉴https://github.com/weihancug/ResNeXt-DenseNet，请参考原作者
 # ResNeXt & ResNet Pytorch Implementation
 - ResNeXt (Aggregated Residual Transformations for Deep Neural Networks)
 - ResNet (Deep Residual Learning for Image Recognition)
